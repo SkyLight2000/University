@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Lab_6.exe.config
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Lab_6.exe
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Lab_6.pdb
+C:\Users\User\source\repos\C#\Lab_6\obj\Debug\Lab_6.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\obj\Debug\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\obj\Debug\Lab_6.exe
+C:\Users\User\source\repos\C#\Lab_6\obj\Debug\Lab_6.pdb
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Cat.dll
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Cat.pdb
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Dog.pdb
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Parrot.pdb
+C:\Users\User\source\repos\C#\Lab_6\bin\Debug\Exceptions.pdb
