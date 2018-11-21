@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#\Lab_7\bin\Debug\Lab_7.exe.config
+C:\Users\User\source\repos\C#\Lab_7\bin\Debug\Lab_7.exe
+C:\Users\User\source\repos\C#\Lab_7\bin\Debug\Lab_7.pdb
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.Properties.Resources.resources
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.exe
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.pdb
+C:\Users\User\source\repos\C#\Lab_7\obj\Debug\Lab_7.MainForm.resources
