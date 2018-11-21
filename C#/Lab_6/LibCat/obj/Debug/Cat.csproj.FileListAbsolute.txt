@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Cat.dll
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Cat.pdb
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\Cat\bin\Debug\Exceptions.pdb
+C:\Users\User\source\repos\C#\Lab_6\Cat\obj\Debug\Cat.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\Cat\obj\Debug\Cat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\Cat\obj\Debug\Cat.dll
+C:\Users\User\source\repos\C#\Lab_6\Cat\obj\Debug\Cat.pdb

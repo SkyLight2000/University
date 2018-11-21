@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\LibDog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Dog.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibDog\bin\Debug\Exceptions.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibDog\obj\Debug\LibDog.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\LibDog\obj\Debug\LibDog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\LibDog\obj\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\LibDog\obj\Debug\Dog.pdb

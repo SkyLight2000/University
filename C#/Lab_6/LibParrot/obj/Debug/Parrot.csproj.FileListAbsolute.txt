@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Parrot.pdb
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\Parrot\bin\Debug\Exceptions.pdb
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.pdb

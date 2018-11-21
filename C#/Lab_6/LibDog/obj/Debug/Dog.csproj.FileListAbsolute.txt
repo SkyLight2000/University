@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Dog.pdb
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\Dog\bin\Debug\Exceptions.pdb
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.dll
+C:\Users\User\source\repos\C#\Lab_6\Dog\obj\Debug\Dog.pdb

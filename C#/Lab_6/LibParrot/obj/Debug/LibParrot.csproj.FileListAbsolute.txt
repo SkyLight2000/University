@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\LibParrot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\Parrot\obj\Debug\Parrot.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Parrot.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Animal.dll
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Exceptions.dll
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Animal.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\bin\Debug\Exceptions.pdb
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\obj\Debug\LibParrot.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\obj\Debug\LibParrot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\obj\Debug\Parrot.dll
+C:\Users\User\source\repos\C#\Lab_6\LibParrot\obj\Debug\Parrot.pdb
