@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,14 +24,25 @@ namespace Lab_7
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
+            double x1 = 0;
+            double x2 = 0;
             if (string.IsNullOrEmpty(tbX1.Text) || (String.IsNullOrEmpty(tbX2.Text)))
             {
                 tbY.Text = "Не введено даних!";
                 tbAvg.Text = "Не введено даних!";
                 return;
             }
-            double x1 = double.Parse(tbX1.Text);
-            double x2 = double.Parse(tbX2.Text);
+            try
+            {
+                x1 = double.Parse(tbX1.Text);
+                x2 = double.Parse(tbX2.Text);
+            }
+            catch (Exception ex)
+            {
+                string err = String.Format("Error number. {0}", ex.Message);
+                MessageBox.Show(err, "Conversion error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
             double y = (5 * Math.Sqrt(Math.Pow(x1, 3) + Math.Pow(x2, 5) - Math.Cos(x2)))/Math.Exp(x1);
             tbY.Text = y.ToString("0.######");
             double avg = (x1 + x2) / 2;
