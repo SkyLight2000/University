@@ -206,7 +206,6 @@ namespace Calculator
         }
         private void buttonEq_Click(object sender, EventArgs e)
         {
-            Button btn = sender as Button;
             Calc();
             p = false;
         }
